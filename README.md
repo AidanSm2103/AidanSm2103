@@ -29,7 +29,7 @@ I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgium
 
 ---
 
-*Thanks for visiting my profile! Let's learn together.* 🚀
+<img src="Footer.gif" alt="Hi there, I'm Aidan" width="100%" height="250"/>
 <!---
 AidanSm2103/AidanSm2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
