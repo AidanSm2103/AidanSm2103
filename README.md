@@ -1,9 +1,4 @@
-# Hi there, I'm Aidan 👋
-
-🎓 **Student at Belgium Campus**  
-📍 *Johannesburg, Gauteng, South Africa*  
-💻 *Bachelor of Computing in Computer Science (2024 - 2027)*  
-
+<img src="Banner.png" alt="Hi there, I'm Aidan" width="100%" height="330" />
 ---
 
 ## 👨‍💻 About Me
