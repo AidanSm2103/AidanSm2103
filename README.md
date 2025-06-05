@@ -1,9 +1,9 @@
-<img src="Banner.png" alt="Hi there, I'm Aidan" width="100%" height="330" />
+<img src="Banner.gif" alt="Hi there, I'm Aidan" width="100%"/>
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at [Belgium Campus](https://www.belgiumcampus.ac.za/) that is eager to explore the world of IT and one day earn the title of Software Engineer. I'm currently honing my skills and working on projects on the academic front that I will one day be able to apply in real world scenarios.
+I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgiumcampus.ac.za/) that is eager to explore the world of IT and one day earn the title of Software Engineer. I'm currently honing my skills and working on projects on the academic front that I will one day be able to apply in real world scenarios.
 
 ---
 
