@@ -11,7 +11,7 @@ I'm a Computer Science student at [Belgium Campus](https://www.belgiumcampus.ac.
 
 [![Email](https://img.shields.io/badge/Email-aidansm2103@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aidansm2103@gmail.com)
 <p align="left">
-<a href="https://linkedin.com/in/aidan smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan smith" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aidan-smith-85714136a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan smith" height="30" width="40" /></a>
 </p>
 
 ---
