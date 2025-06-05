@@ -1,4 +1,5 @@
 <img src="Banner.gif" alt="Hi there, I'm Aidan" width="100%"/>
+
 ---
 
 ## 👨‍💻 About Me
@@ -9,7 +10,6 @@ I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgium
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-aidansm2103@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aidansm2103@gmail.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/aidan-smith-85714136a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan smith" height="30" width="40" /></a>
 </p>
@@ -29,7 +29,7 @@ I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgium
 
 ---
 
-<img src="Footer.gif" alt="Hi there, I'm Aidan" width="100%" height="250"/>
+<img src="Footer.gif" alt="Hi there, I'm Aidan" width="100%"/>
 <!---
 AidanSm2103/AidanSm2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
