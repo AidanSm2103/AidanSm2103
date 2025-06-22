@@ -25,7 +25,6 @@ I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgium
 ## 📈 GitHub Stats
 
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidansm2103&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aidansm2103)
 
 ---
 
