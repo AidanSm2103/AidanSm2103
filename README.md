@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgiumcampus.ac.za/) that is eager to explore the world of IT and one day earn the title of Software Engineer. I'm currently honing my skills and working on projects on the academic front that I will one day be able to apply in real world scenarios.
+I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgiumcampus.ac.za/) and actively working myself up to be an IT professional. Presently my efforts are all focused on academic projects, but I do have a few personal projects that I work on when I have time or feel inspired. There is much for me to learn so help and advice are always appreciated!
 
 ---
 
@@ -19,12 +19,6 @@ I'm a dedicated Computer Science student at [Belgium Campus](https://www.belgium
 ## 🔧 Languages & Tools
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-
----
-
-## 📈 GitHub Stats
-
-![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidansm2103&show_icons=true&theme=default)
 
 ---
 
