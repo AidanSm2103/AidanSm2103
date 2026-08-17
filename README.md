@@ -80,8 +80,8 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AidanSm2103&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F7A72C&icon_color=6C5CE7&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanSm2103&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F7A72C&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AidanSm2103&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F7A72C&icon_color=6C5CE7&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AidanSm2103&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F7A72C&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AidanSm2103&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AidanSm2103.AidanSm2103&style=for-the-badge&color=6C5CE7&left_text=Visitors" />
 </p>
 
 <img src="Footer.gif" alt="Hi there, I'm Aidan" width="100%"/>
