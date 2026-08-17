@@ -49,15 +49,12 @@ A cold-case management system built to flex real OOP and architecture fundamenta
 <td width="50%" valign="top">
 
 ### 🏛️ Mystic Museum
-**Interactive Website**
-
-A narrative-driven site exploring front-end fundamentals through atmosphere and story.
-
-`State Persistence` `HTML/CSS/JS` `UX Design`
-
-- Branching interactive experience
-- Persistent state across the journey
-- Visual design built to reinforce the narrative
+**Full-Stack Interactive Website**
+A narrative-driven digital archive rebuilt from a static site into a full Express/EJS/MongoDB application, with a server-side scavenger hunt that visually corrupts the site the deeper you get.
+`Node.js` `Express` `EJS` `MongoDB` `Session Management`
+- MVC-style architecture with a dedicated service layer between routes and MongoDB models
+- Server-driven progression system (Post/Redirect/Get pattern, no client-side game state) that unlocks content and degrades the UI as more is discovered
+- Reusable EJS partials and a single dynamic template rendering all 8 catalogued artifacts
 
 </td>
 </tr>
