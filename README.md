@@ -107,7 +107,7 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AidanSm2103.AidanSm2103&style=for-the-badge&color=6C5CE7&left_text=Visitors" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by-👋-6C5CE7?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 <img src="Footer.gif" alt="Hi there, I'm Aidan" width="100%"/>
