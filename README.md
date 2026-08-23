@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Building%20Evidence%20Locker-F7A72C?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/STATUS-Obtaining%20Degree-F7A72C?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/BComp-Software%20Engineering-6C5CE7?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Belgium%20Campus-2024--2027-00CEC9?style=for-the-badge&labelColor=1a1a2e" />
 </p>
