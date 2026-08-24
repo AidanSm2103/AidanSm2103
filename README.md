@@ -18,9 +18,8 @@
 student:
   name: Aidan Smith
   degree: BComp, Software Engineering @ Belgium Campus
-  focus: [clean architecture, OOP fundamentals, testing]
-  currently_building: "Evidence Locker — a C# cold-case management system"
-  open_to: feedback, collaboration, good conversation about code
+  focus: [Web Development, App Development, Full Stack Engineering]
+  open_to: feedback and collaboration
 ```
 
 I like building things end-to-end, from data layer to UI, and I'm especially fixated on architecture done properly, building a strong code foundation makes the small details more fun to implement later. Still learning and always will be!
@@ -36,13 +35,13 @@ I like building things end-to-end, from data layer to UI, and I'm especially fix
 ### 🔍 Evidence Locker
 **C# Console App**
 
-A cold-case management system built to flex real OOP and architecture fundamentals — not just make something that runs.
+A cold-case management console app built in C# and .NET 8. Programmed in a menu driven style with xUnit tests ensuring functionality.
 
-`Layered Architecture` `Repository Pattern` `xUnit` `.NET 8`
+`C#` `xUnit` `.NET 8`
 
 - Core / Data / Services / UI / Tests split
 - JSON-based persistence
-- Evidence chain-of-custody tracking
+- Evidence chain of custody tracking
 - Full test coverage on core logic
 
 </td>
@@ -51,7 +50,7 @@ A cold-case management system built to flex real OOP and architecture fundamenta
 ### 🏛️ Mystic Museum
 **Full-Stack Interactive Website**
 A narrative-driven digital archive rebuilt from a static site into a full Express/EJS/MongoDB application, with a server-side scavenger hunt that visually corrupts the site the deeper you get.
-`Node.js` `Express` `EJS` `MongoDB` `Session Management`
+`Node.js` `Express` `EJS` `MongoDB` 
 - MVC-style architecture with a dedicated service layer between routes and MongoDB models
 - Server-driven progression system (Post/Redirect/Get pattern, no client-side game state) that unlocks content and degrades the UI as more is discovered
 - Reusable EJS partials and a single dynamic template rendering all 8 catalogued artifacts
