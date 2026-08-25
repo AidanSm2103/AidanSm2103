@@ -1,7 +1,7 @@
 <img src="Banner.gif" alt="Hi there, I'm Aidan" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7A72C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aidan+%F0%9F%91%8B;Software+Engineering+Student;Architecture+%26+Clean+Code+Enthusiast;Always+Building+Something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7A72C&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Enjoy+your+stay+<3" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,11 +19,13 @@ student:
   name: Aidan Smith
   degree: BComp, Software Engineering @ Belgium Campus
   focus: [Web Development, App Development, Full Stack Engineering]
-  open_to: feedback and collaboration
+  interests: [Backend Systems, Creative Projects, Problem Solving]
+  currently_building: PersonalProjects + PortfolioPieces
+  goal: build(practical_software) && make_it_interesting()
+  improving: frontend_design && UI_design
+  open_to: feedback && collaboration
+
 ```
-
-I like building things end-to-end, from data layer to UI, and I'm especially fixated on architecture done properly, building a strong code foundation makes the small details more fun to implement later. Still learning and always will be!
-
 ---
 
 ## 🚀 Featured Projects
@@ -42,18 +44,20 @@ A cold-case management console app built in C# and .NET 8. Programmed in a menu 
 - Core / Data / Services / UI / Tests split
 - JSON-based persistence
 - Evidence chain of custody tracking
-- Full test coverage on core logic
+- Core logic covered by xUnit tests
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏛️ Mystic Museum
 **Full-Stack Interactive Website**
+
 A narrative-driven digital archive rebuilt from a static site into a full Express/EJS/MongoDB application, with a server-side scavenger hunt that visually corrupts the site the deeper you get.
+
 `Node.js` `Express` `EJS` `MongoDB` 
 - MVC-style architecture with a dedicated service layer between routes and MongoDB models
-- Server-driven progression system (Post/Redirect/Get pattern, no client-side game state) that unlocks content and degrades the UI as more is discovered
-- Reusable EJS partials and a single dynamic template rendering all 8 catalogued artifacts
+- Server-driven progression system that unlocks content and degrades the UI as more is discovered
+- Reusable EJS partials and a single dynamic template rendering all artifacts
 
 </td>
 </tr>
@@ -66,12 +70,19 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></a>
+<a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb atlas" width="45" height="45"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="45" height="45"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/></a>
 </p>
 
 ---
@@ -92,6 +103,9 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 ## 📫 Let's Connect
 
 <p align="left">
+<a href="https://aidansm2103.github.io/Portfolio/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/aidan-smith-85714136a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
