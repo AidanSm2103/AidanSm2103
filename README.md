@@ -82,7 +82,14 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="45" height="45"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/></a>  
+<a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" alt="delphi" width="45" height="45"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/></a>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="45" height="45"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-access/default.svg" alt="microsoft-access" width="45" height="45"/></a>
+<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="45" height="45"/></a>
 </p>
 
 ---
