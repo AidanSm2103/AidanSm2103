@@ -61,6 +61,23 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🧬 Belgium Agent Model (BAM)
+**C# / WPF Desktop App**
+
+A NetLogo-style agent-based simulation platform. This is my third year university project that I led and managed.
+
+`C#` `.NET 8` `WPF` `MVVM` `Roslyn`
+
+- Multi-project solution: Core, WPF and Tests
+- Runtime C# scripting with a safety denylist and execution timeout
+- Rules editor, live plots and monitors, patch grid
+
+</td>
+</tr>
 </table>
 
 ---
@@ -69,7 +86,6 @@ A narrative-driven digital archive rebuilt from a static site into a full Expres
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></a>
